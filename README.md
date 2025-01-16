@@ -37,6 +37,4 @@
 
 [![{Blog}](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsribeiro33112/)
 [![{Blog}](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.ribeirovoya/)
-[![{Blog}](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
-)](https://open.spotify.com/user/31yqfjsvile4qei5qu6w7suguar4)
 </div>
